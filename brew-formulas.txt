@@ -1,0 +1,4 @@
+wget
+ffmpeg
+telnet
+imagemagick
