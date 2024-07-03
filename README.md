@@ -1,1 +1,1 @@
-# My Mac Settigs
+# RogTom Mac Settings
